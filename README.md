@@ -48,7 +48,7 @@ I believe in:
 
 - 🏢 **Company**: Bcreate Systems
 - 💼 **Focus**: Business automation & digital tools
-- 📧 **Email**: akakarj@gmail.com
+- 📧 **Email**: bcreatebs@gmail.com
 - 💬 **Approach**: Always open to collaboration and learning
 
 ---
